@@ -19,7 +19,7 @@ class VentanaPrincipal(QMainWindow):
 
         # Configuración básica de la ventana
         self.setWindowTitle("Mi Aplicación PySide6")
-        self.resize(450, 250)
+        self.resize(1000, 500)
 
         # Contenedor central obligatorio en QMainWindow
         widget_central = QWidget()
